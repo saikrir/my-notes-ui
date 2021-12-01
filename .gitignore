@@ -15,7 +15,7 @@ logs
 node_modules
 bower_components
 *.tsbuildinfo
-
+package-lock.json
 *.sublime*
 
 psd
